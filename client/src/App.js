@@ -33,7 +33,7 @@ const App = () => {
         <Heading>Text to Image Generator</Heading>
         <Text marginBottom={"10px"}>
         This is a React based application to generate image based on input text. Its free to use but before that run the api provided locally. API code is also given in the parent directory or you can click below to directly navigate there.{" "}<br/>
-          <Link href={""} bgColor={"blue"}>
+          <Link href={"https://github.com/utkrishta24/React-Text-to-Image-API-App/tree/main/api"} bgColor={"blue"}>
             ...API Link...
           </Link>
         </Text>
